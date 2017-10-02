@@ -17,6 +17,7 @@
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.1",
     "gulp-useref": "^3.1.2",
+    "gulp-webserver": "^0.9.1",
     "minifier": "^0.8.1"
   }
 }
